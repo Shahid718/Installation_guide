@@ -43,7 +43,7 @@ http://www.gnuplot.info/
 
 9. Select **Components**. 
 
-![Output](gnuplot_select_components.PNG)
+![Output](images/gnuplot_select_components.PNG)
 
 10. Select **Start menu**. 
 
