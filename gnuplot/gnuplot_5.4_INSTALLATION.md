@@ -10,7 +10,7 @@ http://www.gnuplot.info/
 
 2. Select **Release 5.4.9** under **Version 5.4 ( current stable )**.
 
-![Output](images/gnuplot_homepage.png)
+![Output](images/gnuplot_homepage.PNG)
 
 
 3. Select **Download Latest Version**
@@ -43,7 +43,7 @@ http://www.gnuplot.info/
 
 9. Select **Components**. 
 
-![Output](gnuplot_select_components.PNG)
+![Output](gnuplot_select_componentS.PNG)
 
 10. Select **Start menu**. 
 
