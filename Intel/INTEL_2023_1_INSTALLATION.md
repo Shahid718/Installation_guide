@@ -37,34 +37,34 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html#gs.
 
 4) If you click **Intel oneAPI base Toolkit** the following page appears. It shows the general discription of the components.
 
-![Output](images/Intel_oneAPI_Base_Toolkit.PNG)
+![Output](images/intel_oneAPI_Base_Toolkit.PNG)
 
 
 5) Click **Download** under **Intel oneAPI Base Toolkit** and choose **Windows**
 
 
-![Output](images/Intel_os.PNG)
+![Output](images/intel_OS.PNG)
 
 
 6) Select **Online Installer** under **Select distribution**
 
 
-![Output](images/Intel_os_distribution.PNG)
+![Output](images/intel_os_distribution.PNG)
 
 
 7) Select **2023.1** under **Select version**
 
 
-![Output](images/Intel_os_version.PNG)
+![Output](images/intel_os_version.PNG)
 
 8) Select the last option as shown here
 
-![Output](images/Intel_oneAPI_Base_Toolkit_download.PNG)
+![Output](images/intel_oneAPI_Base_Toolkit_download.PNG)
 
 9) The **download folder** looks like
 
 
-![Output](images/Intel_download_folder_1.PNG)
+![Output](images/intel_download_folder_1.png)
 
 10) **Double click** to install the BaseKit. It will take a while to finish installation.
 
