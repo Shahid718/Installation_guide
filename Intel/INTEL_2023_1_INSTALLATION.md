@@ -13,7 +13,7 @@ The steps below demonstrate how to update to the latest Intel Fortran release.
 
 * It shows the information:
 
-![Output](images/visual_studio_version.PNG)
+![Output](images/visual_studio_version.png)
 
 ## **Installation steps**
 
