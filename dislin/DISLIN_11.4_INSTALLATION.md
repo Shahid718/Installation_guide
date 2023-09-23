@@ -15,67 +15,67 @@ https://www.dislin.de/index.html
 
 2. Click **Downloads**.
 
-![Output](images/dislin_home.png)
+![Output](images/dislin_home.PNG)
 
 
 3. Select **Distributions**
 
-![Output](images/dislin_distribution.png)
+![Output](images/dislin_distribution.PNG)
 
 
 4. Choose **Windows 64 bit**
 
-![Output](images/dislin_windows_64.png)
+![Output](images/dislin_windows_64.PNG)
 
 
 5. Find the **distribution** for windows.
 
-![Output](images/dislin_distribution_Mingw.png)
+![Output](images/dislin_distribution_Mingw.PNG)
 
 
 6. The dislin is downloaded in the **Download folder** 
 
-![Output](images/dislin_download.png)
+![Output](images/dislin_download.PNG)
 
 7. **Extract** it there. 
 
-![Output](images/dislin_extract.png)
+![Output](images/dislin_extract.PNG)
 
 8. Open the **extract folder** and click **setup.exe**. 
 
-![Output](images/dislin_setup.png)
+![Output](images/dislin_setup.PNG)
 
 
 9. The following window will appear. Click **OK**.
 
-![Output](images/dislin_setup_window.png)
+![Output](images/dislin_setup_window.PNG)
 
 
 10. The following default setting will appear. Click **OK**. **Note:** This installation directory must be different from the temporary working directory.
 
-![Output](images/dislin_installation_c.png)
+![Output](images/dislin_installation_c.PNG)
 
 
 11. The installation takes a while. Once **installation is done**, the dislin directory looks like. 
 
-![Output](images/dislin_installed.PNg)
+![Output](images/dislin_installed.PNG)
 
 ## **Configuration of the system**
 
 
 12. Go to **control panel** and click **System**. 
 
-![Output](images/control_panel_home.PNg)
+![Output](images/control_panel_home.PNG)
 
 
 13. Select **Advanced system settings**. 
 
-![Output](images/control_panel_settings.PNg)
+![Output](images/control_panel_settings.PNG)
 
 
 14. Check **Environment Variables**. 
 
-![Output](images/system_properties.PNg)
+![Output](images/system_properties.PNG)
 
 
 15. Click **New** and Enter **variable name** and **variable value** under **System Variable**. 
