@@ -43,7 +43,7 @@ http://www.gnuplot.info/
 
 9. Select **Components**. 
 
-![Output](gnuplot_select_componentS.PNG)
+![Output](gnuplot_select_components.PNG)
 
 10. Select **Start menu**. 
 
@@ -71,7 +71,7 @@ http://www.gnuplot.info/
 
 16. Go to **Windows start menu** and find two versions of gnuplot.
 
-![Output](images/gnuplot_start_menu.PNG)
+![Output](images/gnuplot_start_menu.png)
 
 17. Click **gnuplot console version**. It shows:
 
