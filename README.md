@@ -2,7 +2,6 @@
 
 The repository demonstrates how to download and install the latest
 
-
 * Intel Fortran release
 
 * gnuplot release
